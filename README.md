@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Kumar Singh</h1>
+[<h1 align="center">Hi 👋, I'm Kunal Kumar Singh</h1>
 <h3 align="center">B.Tech Student | AI & Data Engineering</h3>
 
 I'm passionate about learning new technologies and building practical software projects. I enjoy solving programming problems and continuously improving my development skills.
@@ -43,3 +43,4 @@ I'm passionate about learning new technologies and building practical software p
 </p>
 
 > *"Learning one step at a time, building one project at a time."*
+](https://www.linkedin.com/in/kunal-kumar-singh/)
