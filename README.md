@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Kunal Kumar Singh 👋
 
-<!--
-**DreamtoProgram/DreamtoProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in **AI & Data Engineering**
 
-Here are some ideas to get you started:
+I'm passionate about learning new technologies and building practical software projects. I enjoy solving programming problems and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+* Python
+* Data Structures & Algorithms
+* Git & GitHub
+* SQL
+* Machine Learning Fundamentals
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,mysql" />
+</p>
+
+## 📚 Currently Working On
+
+* Building personal projects
+* Practicing Data Structures & Algorithms
+* Strengthening Git & GitHub workflow
+* Learning Machine Learning fundamentals
+
+## 🎯 Goals
+
+* Build impactful software projects
+* Contribute to open-source projects
+* Become a skilled AI & Data Engineer
+* Prepare for Software Engineering opportunities
+
+## 📫 Connect with Me
+
+* LinkedIn: *(Add your LinkedIn profile here)*
+* Email: *(Add your professional email here)*
+
+---
+
+> *"Learning one step at a time, building one project at a time."*
