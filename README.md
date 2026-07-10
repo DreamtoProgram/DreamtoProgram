@@ -1,101 +1,78 @@
-<h1 align="center">Hi 👋, I'm Kunal Kumar Singh</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech Student • AI & Data Engineering • India 🇮🇳
-</h3>
+# Hi 👋, I'm Kunal Kumar Singh
 
-<p align="center">
-I'm passionate about building software, solving programming problems, and continuously learning new technologies.
-</p>
+### AI & Data Engineering Student • Software Developer
 
-<p align="center">
+Building practical software projects while learning AI, Data Engineering, and Software Development.
+
+<br>
+
 <a href="https://www.linkedin.com/in/kunal-kumar-singh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kunalsahil74@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=DreamtoProgram&style=for-the-badge&color=blue" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=DreamtoProgram&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Student in **AI & Data Engineering**
-- 🌱 Currently learning **Python, DSA, Git & GitHub, SQL**
-- 💡 Interested in **Software Engineering, AI and Machine Learning**
+- 🎓 B.Tech Student in **Artificial Intelligence & Data Engineering**
+- 💻 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning **Python, DSA, SQL, Git & GitHub**
 - 🚀 Building projects to strengthen my development skills
-- 🎯 Goal: Become a skilled AI & Data Engineer
+- 🎯 Working towards Software Engineering internships
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode&perline=6"/>
 
-</p>
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 📖 Currently Learning
 
-- Python
 - Data Structures & Algorithms
 - SQL
 - Git & GitHub
+- Python
 
 ---
 
 ## 🚀 Current Focus
 
-- 📌 Building personal projects
-- 💻 Practicing DSA
-- 🌱 Learning software development best practices
-- 🔥 Improving GitHub profile
+- Building practical software projects
+- Improving problem-solving skills
+- Learning software engineering best practices
+- Creating an impressive GitHub portfolio
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured Project
 
-### 📌 CoProT
-Coding Problem Tracker that helps organize coding questions and track progress.
+### 📌 CoProT — Coding Problem Tracker
 
----
+A project that helps organize coding problems and track learning progress.
 
-### 💻 DSA Repository *(Coming Soon)*
-
-Solutions to Data Structures & Algorithms problems from different platforms.
-
----
-
-### 🤖 Machine Learning Projects *(Coming Soon)*
-
-Practical ML projects built while learning AI & Data Engineering.
-
----
-
-## 📈 GitHub Activity
-
-> GitHub Stats services are currently unstable.
-
-Once they're back online, simply add:
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DreamtoProgram&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamtoProgram&layout=compact)
-```
+> More projects coming as I continue learning and building.
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://www.linkedin.com/in/kunal-kumar-singh/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -109,8 +86,10 @@ Once they're back online, simply add:
 
 ---
 
-<p align="center">
+<div align="center">
 
-<i>"Always learning. Always building."</i>
+### 💬 Quote
 
-</p>
+*"Code. Learn. Improve. Repeat."*
+
+</div>
