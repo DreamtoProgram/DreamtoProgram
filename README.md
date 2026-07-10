@@ -41,21 +41,21 @@ Currently, I'm strengthening my skills in **Python, Data Structures & Algorithms
 
 ## ⭐ Featured Projects
 
-- 📌 **CoProT** – Coding Problem Tracker
-- 💻 **DSA Practice Repository** *(Coming Soon)*
-- 🤖 **Machine Learning Projects** *(Coming Soon)*
+-  **CoProT** – Coding Problem Tracker
+-  **DSA Practice Repository** *(Coming Soon)*
+-  **Machine Learning Projects** *(Coming Soon)*
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DreamtoProgram&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamtoProgram&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DreamtoProgram&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamtoProgram&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" height="170" />
 </p>
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/kunal-kumar-singh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
