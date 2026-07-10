@@ -74,7 +74,7 @@ A project that helps organize coding problems and track learning progress.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kunal-kumar-singh/">
+<a href="https://www.linkedin.com/in/kunal-kumar-singh--70189531859204510177">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
