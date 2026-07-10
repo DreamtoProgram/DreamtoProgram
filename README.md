@@ -10,7 +10,6 @@ I'm passionate about learning new technologies and building practical software p
 * Data Structures & Algorithms
 * Git & GitHub
 * SQL
-* Machine Learning Fundamentals
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +22,6 @@ I'm passionate about learning new technologies and building practical software p
 * Building personal projects
 * Practicing Data Structures & Algorithms
 * Strengthening Git & GitHub workflow
-* Learning Machine Learning fundamentals
 
 ## 🎯 Goals
 
@@ -34,9 +32,8 @@ I'm passionate about learning new technologies and building practical software p
 
 ## 📫 Connect with Me
 
-* LinkedIn: *(Add your LinkedIn profile here)*
-* Email: *(Add your professional email here)*
-
+* LinkedIn: *kunalsahil74@gmail.com*
+* Email: *www.linkedin.com/in/kunal-kumar-singh*
 ---
 
 > *"Learning one step at a time, building one project at a time."*
