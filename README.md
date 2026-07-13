@@ -3,12 +3,9 @@
 # Hi, I'm Kunal Kumar Singh
 
 **AI & Data Engineering Student · Software Developer**
-
-Building practical software projects while learning AI, Data Engineering, and Software Development.
-
 <br/>
 
-<a href="https://www.linkedin.com/in/kunal-kumar-singh/">
+<a href="www.linkedin.com/in/kunal-kumar-singh--70189531859204510177">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:kunalsahil74@gmail.com">
@@ -24,9 +21,9 @@ Building practical software projects while learning AI, Data Engineering, and So
 
 - 🎓 B.Tech Student in **Artificial Intelligence & Data Engineering**
 - 💻 Focused on Software Development and Problem Solving
-- 🌱 Currently learning **Python, DSA, SQL, Git & GitHub**
+- 🌱 Currently learning **Python, Java, DSA, SQL, Git & GitHub**
 - 🚀 Building projects to strengthen my development skills
-- 🎯 Working towards Software Engineering internships
+- 🎯 Working towards Software Engineering internships.
 
 <br/>
 
@@ -49,19 +46,6 @@ Building practical software projects while learning AI, Data Engineering, and So
 - Git & GitHub
 - Python
 
-</td>
-<td width="50%" valign="top">
-
-**Current Focus**
-- Building practical software projects
-- Improving problem-solving skills
-- Learning software engineering best practices
-- Growing a solid GitHub portfolio
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## Featured Project
@@ -75,17 +59,9 @@ A project that helps organize coding problems and track learning progress.
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/kunal-kumar-singh/">
+<a href="www.linkedin.com/in/kunal-kumar-singh--70189531859204510177">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:kunalsahil74@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-<br/><br/>
-
-<div align="center">
-
-*"Code. Learn. Improve. Repeat."*
-
-</div>
