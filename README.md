@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am student of AI and Data Engineering tie up with @futurense company-benguluru.<br>Currently working on my latest CoProT project.<br>I do have knowledge of Python, Sql, Java, Html, Css, JavaScript.<br>
+I am student of AI and Data Engineering @futurense company-Benguluru.<br>Currently working on my latest 'CoProT' project.<br>
 
 
 ## 🌐 Socials:
